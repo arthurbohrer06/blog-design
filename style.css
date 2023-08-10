@@ -1,0 +1,133 @@
+header{
+    width: 100vw;
+    margin-left: -0.50vw;
+    padding-top: 3vh;
+    height: 10vh;
+    background-color: rgb(30, 30, 30);
+}
+header a{
+    color: aliceblue;
+    text-decoration:none;
+    margin-left: 7vw;
+    font-size: 5vh;
+}
+body{
+    width: 100%;
+    margin: 0;
+    background-color: rgb(43, 42, 42);
+}
+.filmesMaisAssistidos{
+    font-size: 5vh;
+    color: aliceblue;
+    text-align: center;
+    padding-bottom: 2vh;
+}
+.nome-filme{
+    color: aliceblue;
+    padding-right: 2vw;
+    font-size: 1.20vw;
+    text-align: center;
+}
+.maior{
+    display: inline-flex;
+    width: 100%;
+}
+.filmes{
+    width: 100%;
+    text-align: center;
+}
+.batman{
+    margin-left: 2vw;
+    width: 25%;
+    float: left;
+}
+.mario{
+    margin-left: 2vw;
+    width: 25%;
+    float: left;
+}
+.barbie{
+    margin-left: 2vw;
+    width: 25%;
+    float: left;
+}
+.oppenheimer{
+    margin-left: 2vw;
+    width: 25%;
+    float: left;
+}
+.notas{
+    display: inline-flex;
+    margin-left: 1.25vw;
+    width: 100%;
+}
+.nota-pessoal{
+    display: inline;
+    color: aliceblue;
+    font-size:1vw;
+    padding-right: 2vw;
+}
+.nota-critica{
+    display: inline;
+    color: aliceblue;
+    font-size:1vw;
+}
+footer{
+    margin-top: 20vh;
+    color: aliceblue;
+    background-color: rgb(30, 30, 30);
+    width: 100%;
+}
+.contato{
+    text-align: justify;
+    color: aliceblue;
+    padding: 3vh;
+}
+.analise-imagem{
+    width: 100%;
+}
+.filme-analisado{
+    width: 100%;
+    padding-top: 5vh;
+    margin-left: 1vw;
+}
+.analise{
+    width: 100%;
+    display: inline-flex;
+}
+.chat{
+    padding-top: 5vh;
+    margin-right: 1vw;
+}
+.digite-opiniao{
+    float: right;
+    margin-right: 1vw;
+    width: 22%;
+    height: 3vh;
+}
+input{
+    border-radius: 40vh;
+}
+.texto-sinopse{
+    text-align: center;
+    color: aliceblue;
+    padding-right: 2VW;
+    padding-left: 2vw;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5vw;
+}
+.notas-analise{
+   width: 100%; 
+   display: inline-flex;
+}
+.pessoal-analise{
+    display: inline;
+    font-size: large;
+}
+.critica-analise{
+    display: inline;
+    font-size: large;
+}
+.estrela{
+    width: 30%;
+}
